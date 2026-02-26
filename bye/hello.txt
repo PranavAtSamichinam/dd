@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-dwdwd hbdjbjdkwkddggrfg doing changes in this file ded hdbk hfdnjn
-=======
-dwdwd hbdjbjdkwkddggrfg doing changes in this file ded          conflict testing
->>>>>>> 0962e1d24beed17ab1dc33bf855ff1fae2ccbe3d
+
+dwdwd hbdjbjdkwkddggr changes in this file ded          conflict testing
+
